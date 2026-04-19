@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./src/assets/logo-trama.jpg" alt="Trama" width="512" style="border-radius:0px" />
-
-<h1>
-  <span style="color:#7c5cff">Trama</span>
-</h1>
-
-<p><strong>tecnologia estratégica</strong></p>
+<img src="./src/assets/trama.png" alt="Trama" width="512" style="border-radius:0px" />
 
 <p><em>Sites com clareza, performance e identidade.</em></p>
 
