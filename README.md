@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/assets/trama.png" alt="Trama" width="512" style="border-radius:0px" />
+<img src="./src/assets/trama.jpeg" alt="Trama" width="512" style="border-radius:0px" />
 
 <p><em>Sites com clareza, performance e identidade.</em></p>
 
