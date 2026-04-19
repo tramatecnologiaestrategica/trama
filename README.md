@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/assets/logo-trama.jpg" alt="Trama" width="120" style="border-radius:16px" />
+<img src="./src/assets/logo-trama.jpg" alt="Trama" width="512" style="border-radius:0px" />
 
 <h1>
   <span style="color:#7c5cff">Trama</span>
